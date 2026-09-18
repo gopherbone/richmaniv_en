@@ -65,11 +65,17 @@ ByID = {}
 for row in csv.DictReader(open(SCRIPT_CSV, newline='', encoding='utf-8-sig')):
     ByID.setdefault(int(row['id']), row)
 
+
+_TRANS = {0x2014: '--', 0x2013: '-', 0x2018: "'", 0x2019: "'", 0x201C: '"', 0x201D: '"',
+          0x2026: '...', 0x223C: '~', 0xFF5E: '~'}
+def _to_ascii(s):
+    return ''.join(_TRANS.get(ord(c), c if ord(c) < 128 else '?') for c in s)
+
 def en_of(rid, zh_bytes):
     row = ByID.get(rid)
     if row and row['english']:
         try:
-            return row['english'].replace('\\n', '\n').encode('ascii')
+            return _to_ascii(row['english'].replace('\\n', '\n')).encode('ascii')
         except Exception:
             pass
     return zh_bytes[5:]
@@ -149,7 +155,7 @@ overflow = bytearray()
 ui_map = []          # (old_va, new_va, old_len)
 for site, zh, en in UIBySite:
     try:
-        eb = en.replace('\\n', '\n').encode('ascii')
+        eb = _to_ascii(en.replace('\\n', '\n')).encode('ascii')
     except Exception:
         continue
     if len(eb) + 1 <= len(zh):
