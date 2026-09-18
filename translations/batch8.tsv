@@ -1,0 +1,884 @@
+土地！	Land!
+土伯	Uncle Tudi
+土伯購得此地！	Uncle Tudi bought this land!
+夫人	Madame
+夫人購得此地！	Madame Qian bought this land!
+土匪啊！\n我才不付呢。	Highway robbery!\nI refuse to pay.
+坐牢%d天	Jailed %d days
+坐牢中	In jail
+住院中	In hospital
+住院檢查三天	Hospitalized for 3 days
+冬眠中	Hibernating
+夢遊中	Sleepwalking
+買地！買地！	Buy land! Buy land!
+換地！換地！	Trade land! Trade land!
+換間屋子吧！	Let's swap houses!
+轉向，轉向！	Turn! Turn!
+給我改建吧！	Renovate it for me!
+拍賣當格土地	Auction this land
+變賣所有卡片	Sell all cards
+變賣所有道具	Sell all items
+變賣所有卡片道具	Sell all cards & items
+命運三張	Three cards of Fate
+立刻坐牢三天	Jail for 3 days at once
+原地停留一回合	Stay in place for a turn
+存入所有現金	Deposit all cash
+就地加蓋房屋	Add a floor right here
+得一張卡片	Get a card
+向後轉	About face
+就地拆除房屋	Demolish a floor
+得十點	Get 10 points
+得三十點	Get 30 points
+得五十點	Get 50 points
+得點券%d點	Get %d points
+得點券１０點	Get 10 points
+得點券３０點	Get 30 points
+得點券５０點	Get 50 points
+得到５００點券！	Got 500 points!
+得到%s！	Got %s!
+見風轉舵！	Blow with the wind!
+重新裝潢吧！	Time for a remodel!
+我想歇歇腳~	I want to rest my feet~
+人生\n何必太匆匆！	Why rush through life!
+我的錢~	My money~
+衰啊~	So unlucky~
+警方！	POLICE!
+使用卡片	Use Cards
+使用道具	Use Items
+交易	Trade
+股市	Stocks
+開發道具	Development Items
+個  性	Personality
+資金運用比例	Fund Allocation
+出售的張數	Shares to sell
+持有股數表	Shareholdings
+股 價 表	Price Table
+股  票	Stocks
+股票資料	Stock Info
+資金資料	Fund Info
+日期更改	Change Date
+切換選項	Switch Option
+切換視窗組	Switch Windows
+音 樂	Music
+音 效	Sound
+樂  曲	Tunes
+視  窗	Windows
+暫停交易	Trading Halted
+成交價	Last Price
+持有股數	Shares Held
+平均成本	Avg Cost
+本日休市	Market Closed Today
+月均價	Monthly Avg
+餘股:%d	Shares left: %d
+數  %d	No. %d
+%d天	%d days
+%d月	Month %d
+%d張	%d shares
+%d元	$%d
+%d點	%d points
+%s元	$%s
+%s您好	Hello, %s
+×%d	x%d
+購買	Buy
+賣方	Seller
+放棄	Give up
+標價：	Asking price:
+原因：	Reason:
+本月意外損失：	Accidental losses this month:
+本月意外之財：	Unexpected windfall this month:
+本月倒楣天數：	Unlucky days this month:
+現金：	Cash:
+存款：	Savings:
+總資產：	Net worth:
+利息：	Interest:
+貸款中	Loan outstanding
+消失中	Vanished
+房屋查封中\n\n免收%s！	Under foreclosure —\nno %s charged!
+與%s同盟中\n\n免收%s！	Allied with %s —\nno %s charged!
+死神顯靈\n\n免收%s！	Death manifests —\nno %s charged!
+%s住宿中\n\n免收%s！	%s is lodging —\nno %s charged!
+%s消失中\n\n免收%s！	%s is vanished —\nno %s charged!
+%s坐牢中\n\n免收%s！	%s is in jail —\nno %s charged!
+%s住院中\n\n免收%s！	%s is hospitalized —\nno %s charged!
+%s冬眠中\n\n免收%s！	%s is hibernating —\nno %s charged!
+%s夢遊中\n\n免收%s！	%s is sleepwalking —\nno %s charged!
+小財神顯靈\n\n%s減免一半！	Lesser Fortune God appears:\n%s halved!
+大財神顯靈\n\n免付%s！	Great Fortune God appears:\nno %s charged!
+小窮神顯靈\n\n%s加付50％！	Lesser Poverty God appears:\n%s +50%!
+大窮神顯靈\n\n加倍付%s！	Great Poverty God appears:\n%s doubled!
+死神顯靈\n\n由%s賠償%s	Death manifests:\n%s pays %s
+>%s住宿中\n\n還剩%d天！	>%s is lodging\n\n%d days left!
+%s消失中\n\n還剩%d天！	%s is vanished\n\n%d days left!
+%s坐牢中\n\n還剩%d天！	%s is in jail\n\n%d days left!
+%s住院中\n\n還剩%d天！	%s is in hospital\n\n%d days left!
+%s冬眠中\n\n還剩%d天！	%s is hibernating\n\n%d days left!
+你損失減半。	Your losses are halved.
+你投資事半功倍！	Your investments work twice as well!
+身\n\n得到%s！	possessed:\n\nGot %s!
+身\n\n得到%s及%s！	possessed:\n\nGot %s and %s!
+掉了。	Dropped it.
+有我小小衰神，害你一事無成。	I am the little Misfortune God —\nyou will accomplish nothing!
+身\n\n遺失%s！	possessed:\n\nLost %s!
+哈哈哈！真是好衰啊！	Hahaha! What terrible luck!
+身\n\n遺失一半卡片！	possessed:\n\nLost half your cards!
+哈雷路亞~\n\n我將使您落腳的土地更加繁榮。	Hallelujah~\n\nI will bless your land with prosperity.
+哈~哈~與我同生共死。\n\n我要沿路破壞你所經過的土地。	You live and die with me~\n\nI will destroy every land you pass!
+，有土斯有財\n\n我就是土地公公。\n\n有我在，你想要多少土地就有多少。	With land comes wealth —\n\nI am the Earth God.\n\nWith me around, take all the land you want!
+嘿嘿嘿嘿﹒﹒你慘了！\n\n被我盯上，你完蛋了。	Heh heh heh... you're finished!\n\nOnce I've got my eye on you, it's over!
+%s顯靈\n\n加蓋一層房屋！	%s manifests:\n\none floor added!
+小惡魔顯靈\n\n拆毀一層房屋！	The little demon manifests:\n\none floor demolished!
+投「機」人，\n你們要小心嘍！	Speculators,\nwatch out!
+看誰人卡衰？	Who's the unlucky one?
+麥凍路啦！	Get out of the way!
+呼伊去~	Off you go~
+甲我凍咧	Wait right there!
+世界大飯店	World Hotel
+中國人壽	China Life
+中國信託	Chinatrust
+中國石油	CPC Petroleum
+乃身外之物~	Fleeting worldly things~
+之內\n皆兄弟！	within the seas,\nall are brothers!
+乎你魯死！	I'll pester you to death!
+交易	Trade
+人~	someone~
+人不是阮殺的~	I didn't kill anybody~
+人家\n不是故意的~	I didn't\ndo it on purpose~
+人家不管啦！	I don't care anymore!
+人家不要換啦~	I don't wanna trade~
+人家付不起啦!	I can't afford it!
+人家很窮的!	I'm very poor!
+人家是無辜的~	I'm innocent~
+人家的房子~	My own house~
+人家真能幹!	I'm so capable!
+人家變成\n急凍人了啦!	I'm frozen solid!
+人家走的\n好好的~	I was walking\njust fine~
+人家\n有事情要辦啦！	I have\nerrands to run!
+人無橫財不富!	No windfall, no wealth!
+人生不如意\n十有八九~	Life rarely goes as you wish~
+人點水之恩，\n必當湧泉已報！	A drop of kindness must be repaid\nwith a rushing spring!
+人！	...body!
+什…什麼？！	W-what?!
+什麼鳥不生蛋\n的地嘛。	What a godforsaken wasteland.
+今夜做夢\n也會笑~	I'll smile even in my dreams~
+代替月亮\n懲罰你！！	In the name of the moon,\nI'll punish you!!
+任天堂	Nintendo
+休息%d天\n\n費用%d元！	Rest %d days\n\nfee $%d!
+休息是為了走\n更長的路！	Rest is preparation for a longer road!
+住手！住手呀！	Stop! Stop it!
+住院檢查三天	Hospital checkup, 3 days
+你…\n你這個強盜！	You... you bandit!
+你不會\n憐香惜玉啊？！	Have you no gentleness at all?!
+你不能\n這樣對我！	You can't do this to me!
+你也配\n跟我同盟？！	You dare ask for an\nalliance with ME?!
+你休想得逞！	You won't get away with it!
+你住	...reside!
+你們嚐嚐\n惡魔的厲害！	Taste the demon's power!
+你們有得瞧囉！	You're in for a show!
+你們都不是\n對手！！	None of you can match me!!
+你們都不是\n烏咪的對手啦！	None of you can match Mimi!
+你品味真差！！	You have terrible taste!!
+你家開黑店啊？	Running a crooked shop?
+你憑什麼\n抽我稅？！	What gives you the right\nto tax me?!
+你投資事半功倍！	Your investments go twice as far!
+你捺ㄟ這失德！	How could you be so shameless!
+你損失減半。	Your losses are halved.
+你敢有納稅？	Have you paid your taxes?
+你有夠討債！！	You're such a burden!!
+你的好像\n比較好~	Yours looks better~
+你的就是我的，\n我的還是我的！	What's yours is mine,\nand what's mine is mine!
+你的東西\n本公主要了！	The princess will take your things!
+你真是\n太沒品了~	You're truly beneath contempt~
+你給我卡\n差不多ㄟ！！	Know your place!!
+你罪有應得！	You got what you deserved!
+你蓋我就拆~	You build, I demolish~
+你走開啦！！	Go away!!
+你跟我\n有冤仇喔！！	You and I have a blood feud!!
+你這個\n殺千刀的！！	You insufferable scoundrel!!
+你這個人\n真難逗陣！	You're a hard person to get along with!
+你這樣\n還叫窮啊？！	YOU call that poor?!
+你都害人家~	You always pick on me~
+你！	YOU!
+使用%s	Use %s
+來\n週轉週轉吧！	lend me some money\nto tide me over!
+來~	come~
+來泡茶啦!	Tea time!
+來福！咬它！	Rex! Bite it!
+侏羅紀影業	Jurassic Pictures
+保釋%s	Bail out %s
+保釋點數	Bail points
+保險期間\n\n得到理賠金\n\n%d元	Insurance term:\n\nreceived payout\n\n$%d
+保險金%d元	Insurance payout $%d
+保險！	Insurance!
+倒流嘍！	Time flows backward!
+假期百貨	Holiday Department Store
+假期銀行	Holiday Bank
+做個好夢吧~	Sweet dreams~
+偷雞不著\n蝕把米~	Went for wool and came home shorn~
+傷！！	...wounded!!
+價  格	Price
+免你雞婆啦!	Don't be nosy!
+兒？	...child?
+入不敷出~	Spending more than I earn~
+全壘打！	Home run!
+八蛋！	...eggs!
+公  園	Park
+公司企業	Companies
+冤枉啊！	Injustice!
+出來吧，\n我的神！	Come forth, my god!
+別人的失敗\n就是我的快樂！	Other people's failures are my happiness!
+別動！	Don't move!
+別弄髒\n我的衣服！！	Don't dirty my clothes!!
+別急著走嘛！	Don't rush off!
+別想佔\n老娘便宜！	Don't try to take advantage of me!
+別想我會付錢！	Don't expect me to pay!
+別緊張！	Relax!
+別走這邊！	Not this way!
+別雞婆~~~	Stop butting in~~~
+到你了！	It's your turn!
+到我了！	It's MY turn!
+前途黑暗~~	The road ahead is dark~~
+加減補助啦~	Any little subsidy helps~
+加蓋地點	Add floor at
+勒索%s\n\n%d元保護費！	Extorted %s:\n\n$%d protection money!
+包大出血！	...wallet bleeding!
+包損失%d元	...wallet lost $%d
+匯豐證券	HSBC Securities
+千刀的！！	...scoundrel!!
+南北貨場	Grocers' Emporium
+卡早睡咧\n卡有眠~	Early to bed means better sleep~
+卡片欄已滿\n\n無法購買！	Card slots full\n\ncan't buy!
+原因：	Reason:
+原地停留一回合	Stay in place for a turn
+可別眼紅哪~	Don't be jealous~
+可口可樂	Coca-Cola
+可喜可賀！	A cause for celebration!
+可恨…\n最近有夠背!	Damn... such an unlucky streak!
+可恨，\n給我記著！	Damn you —\nremember this!
+可惡！\n你也別想跑！	Damn it!\nYou're not going anywhere!
+可惡，\n兩袖清風了啦！	Darn it, I'm flat broke!
+台 積 電	TSMC
+台灣塑膠	Formosa Plastics
+向%s收一張卡片	Collect a card from %s
+吧！	...come on!
+吧！！	...I mean it!!
+呀！	...yah!
+呦喂呀	Oh my, oh my
+呵~\n別忌妒我啊！	Heh~ don't be jealous!
+呵呵呵~\n承讓了！	Heh heh heh~\nI concede — good game!
+呵呵呵，\n功成名就啦！	Heh heh heh, success and fame!
+呵呵呵，\n我還滿行的嘛！	Heh heh heh, I've still got it!
+呷緊弄破碗~	Hasty eaters break their bowls~
+呼…\n終於走掉了！	Phew... finally gone!
+呼~總算走了！	Phew~ finally gone!
+呼呼呼，\n我是無敵的！	Hoo hoo hoo, I am invincible!
+呼呼呼，\n誰會來呢，\n真令人期待！	Hoo hoo hoo, who will come next? So exciting!
+呼嚕呼嚕~	Snore, snore~
+命運三張	Three cards of Fate
+咪呀！	...mia!
+哇~我要過\n少奶奶的生活！	Wow~ time to live in luxury!
+哇~真歹命！	Waa~ such a hard life!
+哇呀呀，不好！	Waaah, this is bad!
+哇！人家辛苦\n蓋的房子~	Waa! The house I worked so hard to build~
+哇！囊空如洗~	Wow! Flat broke~
+哇!賺到了	Wow! Cha-ching!
+哈~哈~與我同生共死。\n\n我要沿路破壞你所經過的土地。	You live and die with me~\n\nI will destroy every land you pass!
+哈利路亚！	Hallelujah!
+哈哈哈！真是好衰啊！	Hahaha! What terrible luck!
+哈哈！\n今天真高兴！	Haha! So happy today!
+哈囉，分錢哦！	Hello! Time to split the money!
+哈雷路亞~\n\n我將使您落腳的土地更加繁榮。	Hallelujah~\n\nI will bless your land with prosperity!
+哈！\n把它夷為平地！	Ha! Raze it to the ground!
+哈！不要命的\n就來啊！	Ha! Come if you've got a death wish!
+哈！意外之財	Ha! A windfall!
+哈!财源滚滚。	Ha! Wealth rolling in!
+哎呀，我真是\n太受歡迎了！	Oh my, I'm just SO popular!
+哎喲~\n你後面有什麼？	Oh my~ what's behind you?
+哥基拉，上！	Godzilla, attack!
+哦！	Oh!
+哪有人這樣的！	How could anyone!
+哼！這點錢\n也要跟我拿~	Hmph! Begging me for pocket change~
+唉~\n我自己活該倒楣	Ah~ I deserve this bad luck
+唉~花錢消灾！	Ah~ money to ward off misfortune!
+唉喲喂呀~	Oy vey~
+唉！\n錢乃身外之物~	Ah! Money's just a worldly thing~
+唉！回頭太難~	Ah! Too hard to turn back~
+唉!害人反害己	Ah! The schemer hoists himself!
+啊！\n荷包大出血！	Ah! My wallet's bleeding!
+啊!悽慘落魄~	Ah! Utterly wretched~
+啊？！	Huh?!
+啦！	...lah!
+喂喂喂！\n我的房子呀！	Hey hey hey! My house!
+喂喂，繳稅繳稅	Hey hey, taxes, taxes
+喔~~~~\n股票快漲價！	Ooh~~ stocks are about to rise!
+喔~~~~\n股票快跌！	Ooh~~ stocks are about to fall!
+喔啦喔啦\n喔啦喔啦~	Oh-la oh-la oh-la oh-la~
+喔喔，\n我親愛的摯友~	Ohhh, my dearest friend~
+喔！	Oh!
+喔！不！	Oh no!
+喔！我的天啊！	Oh, my God!
+喔！耶！	Oh yay!
+喔！酷！	Oh, cool!
+喜從天降	Joy descends from heaven
+喬治亞人壽	Georgia Life
+喲喂呀~	Oh my oh my~
+嗚~\n一毛都不剩~	Waa~ not a penny left~
+嗚~\n人家不管啦	Waa~ I don't care anymore!
+嗚~\n人家花了好久\n才蓋好的~	Waa~ it took me forever to build~
+嗚~人家一毛\n也不剩了。	Waa~ not a single penny left.
+嗚~欺負人家~	Waa~ you're bullying me~
+嗚嗚嗚~~~	Waaaa~~~
+嗚！寸步難移~	Waa! Can't move an inch~
+嗯~	Mm~
+嗯~\n聚沙成塔！	Mm~ every grain of sand counts!
+嗯~來嘛！	Mmm~ come on!
+嗯~我很滿意！	Mm~ I'm very satisfied!
+嗯！\n要做好朋友喔~	Mm! Let's be good friends~
+嘛好啊！	Whatever works!
+嘸意嘸思!	Not interested!
+嘻~積少成多!	Hee~ every little bit counts!
+嘻嘻~\n別生氣喔!	Hee hee~ don't be mad!
+嘻嘻嘻~	Hee hee hee~
+嘻嘻！\n關門大吉！	Hee hee! Out of business!
+嘻！\n不拆手癢~	Hee! My fingers itch to demolish~
+嘻！\n你是屬烏龜的~	Hee! Slowpoke~
+嘿嘿嘿嘿﹒﹒你慘了！\n\n被我盯上，你完蛋了。	Heh heh heh... you're finished!\n\nOnce I've got my eye on you, it's over!
+噠嘛好啊！	Whatever works!
+嚇人家一跳!!	You startled me!!
+回去吧！	Go back!
+回家啦~	Going home~
+大俗賣!\n大俗賣!	BIG CLEARANCE SALE!\nBIG CLEARANCE SALE!
+大宇百貨	Softstar Department Store
+大宇資訊	Softstar
+大家的\n房子堅不堅固？	Is everyone's building sturdy?
+大家花!	spend together!
+大慶石油	Tajen Petroleum
+大拍賣！	BIG SALE!
+大拍賣!\n大拍賣!	BIG SALE!\nBIG SALE!
+大漲長紅!	Soaring prices!
+大眾軟件	Volksworld Software
+大窮神顯靈\n\n加倍付%s！	Great Poverty God: %s doubled!
+大紅股票\n高高漲!!	Stocks in the red, soaring high!!
+大財神顯靈\n\n免付%s！	Great Fortune God: no %s charged!
+天亡我也~	The heavens have forsaken me~
+天使降臨!!	The angel descends!!
+天公嘸目瞅喔!	Heaven has no eyes!
+天公疼憨人!	Heaven loves fools!
+天啊~	God~
+天降鸿福!!	Fortune falls from heaven!!
+太可憐了!	How pitiful!
+太多！	Too much!
+太好賺了~	Easy money~
+太妙了！	Brilliant!
+太棒了！	Wonderful!
+太美了！	How beautiful!
+太誇張了！	That's outrageous!
+太貴了！	Too expensive!
+太陽能電力	Solar Power Co.
+夫人不會\n就這麼放棄的！	Madame Qian does not give up that easily!
+奉送啟程!	Safe travels!
+女人是善變的!	A woman's heart changes like the wind!
+好~	good~
+好了~	Okay~
+好倒楣喔~	So unlucky~
+好國民\n要繳稅喔!	Good citizens pay their taxes!
+好壞喔，\n想害人家~	So mean, trying to hurt me~
+好家在！	Thank goodness!
+好幸福喔!	I'm so happy!
+好想要耶~	I want it so bad~
+好戲在後頭!!	The best is yet to come!!
+好棒喔！	Wonderful!
+好極了！	Excellent!
+好樣的！	Nice one!
+好玩嘛!	What fun!
+好的開始\n是成功的一半!	Well begun is half done!
+好險~	That was close~
+始祖化石	Ancestor Fossil Co.
+委屈您了~	Sorry for the trouble~
+婆~~	...wife~~
+婆啦！	...wife!
+媽媽咪呀！	Mamma mia!
+嫁禍給%s！	Frame %s for it!
+存入所有現金	Deposit all cash
+宇宙地產	Cosmos Real Estate
+宇宙百貨	Cosmos Department Store
+家境清寒，\n變賣家產~	Hard up — selling the family assets~
+富士銀行	Fuji Bank
+富貴如浮雲~	Riches are fleeting clouds~
+寵若驚！	...flattered!
+對%s使用%s！	Use %s on %s!
+小 丹 尼	Little Danny
+小偷偷得%s\n\n給%s！	The Thief stole %s\n\nand gave it to %s!
+小心\n別踩到狗屎啊！\n呵呵~	Careful not to step in dog poop!\nHeh heh~
+小心能駛\n萬年船~	Steady hands sail for ten thousand years~
+小心！\n步步危機~	Watch out! Danger at every step~
+小惡魔顯靈\n\n拆毀一層房屋！	The little demon manifests:\none floor demolished!
+小意思~	Pocket change~
+小氣巴拉~	So stingy~
+小窮神顯靈\n\n%s加付50％！	Lesser Poverty God: %s +50%!
+小財神顯靈\n\n%s減免一半！	Lesser Fortune God: %s halved!
+小錢、小錢！	Small change, small change!
+小錢也要省？！	Saving pennies now?!
+小黃！\n快來幫我~	Rex! Come help me~
+少年人\n要知進退！	Young folk should know when to advance or retreat!
+少林派	Shaolin Sect
+就像一場夢~	Just like a dream~
+就地加蓋房屋	Add a floor right here
+就地拆除房屋	Demolish a floor right here
+山不轉路轉~	When the mountain won't turn, the road will~
+嵩山派	Mt. Song Sect
+帽\n罰款%d元	helmet\nfine $%d
+幫你換個\n新造型!	Here's a new look for you!
+幸好\n我早有防備~	Good thing I was prepared~
+幸運！	Lucky!
+府井百貨	Wangfujing Dept. Store
+強盜搶奪銀行\n\n得款%d元\n\n給%s！	The Bandit robbed the bank:\n\ntook $%d\n\nand gave it to %s!
+得一張卡片	Get a card
+得意的一天!	A day of glory!
+復仇給你看!?	Revenge served cold!?
+德州儀器	Texas Instruments
+德間書店	Tokuma Shoten
+心好痛喔！	My heart aches!
+忍 太 郎	Ninja Taro
+快來這裡玩玩！	Come play here!
+快喔!\n價高者得~	Quick! Highest bidder wins~
+怎麼\n不多給一點？	Why not pay me more?
+怪自己吧	Blame yourself
+怪醫黑傑克！	Black Jack!
+恆山派	Mt. Heng Sect
+恐龍蛋節\n\n%s得到%s！	Dinosaur Egg Festival:\n\n%s gets %s!
+恐龍蛋食品	Dino Egg Foods
+恭喜您成為幫主！	Congrats, you're the new gang boss!
+恭喜您獲得經營權！	Congrats, you've won control!
+您向銀行借貸的\n貸款即將到期。	Your loan from the bank\nis about to come due.
+您的消費金額為\n\n%dx%d倍=%d元	Your bill:\n\n%d x %d multiplier = $%d
+您的現金不足！	Not enough cash!
+惡魔現身!!	The demon appears!!
+想投資\n跟著我就對啦！	If you want to invest, follow me!
+愛拼才會贏！	You've gotta fight to win!
+愛計較！！	Such a fussbudget!!
+愛迪達	Adidas
+感謝上帝！	Thank God!
+感謝老天！	Thank heavens!
+慘了~	Oh no~
+慢~	slow~
+慢慢走吧！\n哈哈哈！	Walk slowly!\nHahaha!
+成  本	Cost
+我\n再玩一次吧！	Let me play\none more time!
+我一程~	a ride with me~
+我不想賣~	I don't wanna sell~
+我不想走\n回頭路~	I don't want to retrace my steps~
+我不是故意的！	I didn't mean it!
+我不甘心！\n我要捲土重來！	I refuse to accept this!\nI'll make a comeback!
+我不相信！	I don't believe it!
+我不睏~	I'm not sleepy~
+我不累~	I'm not tired~
+我不要向後轉~	I won't turn around~
+我以早\n是土水師！	I used to be a mason!
+我來\n為民除害！！	I'll rid the people of this pest!!
+我來開拓\n人生的大道~	Let me pave my life's road~
+我再玩一次！	Let me play again!
+我出去！	...let me out!
+我命令你\n向後轉！	I command you: about face!
+我多的是！	I've plenty!
+我想歇歇腳~	Lemme rest my feet~
+我想買糖吃~	I want candy~
+我把它\n據為己有！！	I'll take it for myself!!
+我是小富婆~	I'm a little rich lady~
+我是有錢人！	I'm rich!
+我是賊仔賊公會\n的會長！	I'm the president of the Thieves Guild!
+我是贏家！	I'm the winner!
+我款待！	...my treat!
+我死了吧！	Just kill me now!
+我沒有生病！	I'm not sick!
+我痛苦！！	Such pain!!
+我的心臟病\n要發作了~	My heart is giving out~
+我的洋房~	My villa~
+我的錢~	My money~
+我盡盡\n地主之誼！	Let me do my duty as your host!
+我破產了！	I'm bankrupt!
+我背你走！	I'll carry you!
+我能幫助你嗎？	May I help you?
+我要住\n頭等病房！！！	I demand a private ward!!!
+我要告你！！	I'll sue!!
+我要回家~	I want to go home~
+我要據為己有！	I'm taking it for myself!
+我要離開這裡！	I'm leaving!
+我變我變\n我變變變~	Change, change, change-a-roo~
+我賺大錢了！	I made a fortune!
+我走回去幹麼？	Why would I walk back?
+我走！！	I'm walking!!
+我趕著\n去約會耶！！	I'm rushing to a date!!
+我還不想走~	I don't want to go yet~
+我饒不了你！！	I'll never forgive you!!
+房  屋	Buildings
+房子\n沒人會嫌多~	Nobody complains about too many houses!
+找個倒楣鬼~	Find an unlucky sucker~
+找個替死鬼~	Find a scapegoat~
+技~~	...technique~~
+把你拆得\n稀巴爛！	I'll smash you to bits!
+抱歉抱歉，\n您沒事吧？	Sorry, sorry! Are you OK?
+拆厝喔！	House demolition!
+拆掉\n重蓋卡緊啦！	Tear it down and rebuild, quick!
+拉真主！\n請派使者降臨！	Allah! Send down your messenger!
+拉！	...lah!
+拍賣的價格\n\n（市價：%d元）	Auction price\n\n(market: $%d)
+拜拜，我的神~	Bye-bye, my god~
+拜請拜請！\n大仙王爺公，\n小仙王爺仔~	We summon you, great lords\nand little lords~
+拿去吧~	Here you go~
+拿去啦，\n不用找了~	Take it, keep the change~
+捏了一把冷汗~	That was a close call~
+捐給\n有需要的人吧！	Give to those in need!
+掉了。	Dropped it.
+掉個頭~	U-turn~
+接受\n法律的制裁吧！	Face the judgment of the law!
+提心吊膽~~	On pins and needles~~
+換個生意\n作作也好~	A different business might be nice~
+換個角度\n看世界！	See the world from a different angle!
+搶得%s的\n\n%s	Snatched %s's\n\n%s
+搶錢啊？！	Daylight robbery?!
+摩扥羅拉	Motorola
+放我出去！\n我是無辜的！	Let me out! I'm innocent!
+放我自由~	Set me free~
+政府公告	Government Bulletin
+教？	...teach?
+斷水斷電，\n禁止營業！	Water and power cut —\nCLOSED!
+施捨給乞丐%d元	Gave the beggar $%d
+日產建設	Nissan Construction
+日立機電	Hitachi
+早就好走啊~	Should've walked ages ago~
+星球電視	Planet TV
+是否嫁禍給%s？	Frame %s for it?
+時間~	time~
+景觀太差了吧？	The view is terrible, no?
+最好\n離我遠遠的~	You'd better steer clear~
+最近\n運氣不錯嘛！	Luck's been good lately!
+月世界旅遊	Lunar World Tourism
+有人這樣的！	How could anyone!
+有我小小衰神，害你一事無成。	I am the little Misfortune God — you will accomplish nothing!
+有空來坐坐吧！	Come visit anytime!
+有請仙人降臨！	Summoning the immortal!
+有賺頭~	Makes money~
+有魂無體\n親像稻草人~	A soul without a body, like a scarecrow~
+望你給阮牽成~	Hope you'll help me out~
+本公主\n就是不想付，\n怎樣？	The princess doesn't WANT to pay. So there?
+本公主\n決不放棄！	This princess never gives up!
+本公主\n要欣賞風景！	The princess wants to enjoy the view!
+本公主跟你有\n深仇大恨嗎？	Did the princess wrong you somehow?
+本月倒楣天數：	Unlucky days this month:
+本月意外之財：	Unexpected windfall this month:
+本月意外損失：	Accidental losses this month:
+東方實業	Oriental Industrial
+東西給我！	Gimme your stuff!
+松下電機	Panasonic
+樓仔厝起歸排！	A whole row of townhouses!
+標價：	Asking price:
+機車	Scooter
+欲速則不達！	Haste makes waste!
+欺負老大人！	Bullying an old man!
+歡迎了！	...welcome!
+歡迎大家來玩！	Everyone come play!
+武當派	Wudang Sect
+歹勢！歹勢！	Sorry! Sorry!
+死神顯靈\n\n由%s賠償%s	Death manifests: %s pays %s
+氣死我啦！	I'm FURIOUS!
+氣象報導	Weather Report
+汽車撞電線桿全毀	Car hits a pole — totaled
+沒事拆人家\n房子幹嘛！	Why demolish other people's houses?!
+沒人來\n守望相助嗎？	Is there no one to help a neighbor?
+沒什麼~	Whatever~
+沒什麼大不了！	It's nothing!
+沒有人情味~	So cold-hearted~
+沒關係！	It's fine!
+泰山派	Mt. Tai Sect
+消失中	Vanished
+消灾！	...ward off misfortune!
+滿腹痛苦\n嘸人知~	Full of pain and no one knows~
+漲！漲！	Rise! Rise!
+火山岩保險	Volcanic Rock Insurance
+火星移民	Mars Colony
+火燒罟寮\n嘸魚網~	The net shack burned, no fishing nets~
+為我而死吧！	Die for me!
+烏  咪	Mimi
+烏咪\n想跟你換房子~	Mimi wants to swap houses~
+烏咪\n請惡魔懲罰你！	Mimi commands the demon to punish you!
+烏咪沒有犯罪！	Mimi did nothing wrong!
+烏咪要\n請天使出來了！	Mimi is calling the angel!
+烏咪要讓這塊地\n換主人~	Mimi will give this land a new owner~
+無妄之災！	Undeserved disaster!
+無責任新聞	Tabloid News
+無邊\n回頭是岸	boundless — turn back to shore
+無邊，\n回頭是岸！	boundless —\nturn back to shore!
+爬呀爬呀\n過沙河~	Crawl, crawl across the sand river~
+物價上漲囉！！	Prices are going up!!
+狂徒大飯店	Kuangtu Grand Hotel
+狂徒鏢局	Kuangtu Escort Agency
+狄士尼	Disneyland
+現金：	Cash:
+球首富	...richest on Earth
+環球百貨	Global Department Store
+甜心~出來吧！	Sweetheart~ come out!
+由不得你說不！	You don't get a say!
+男兒有淚\n不輕彈~	Real men don't cry easily~
+畜生，\n我偏不信邪！	Curse it — I refuse to believe it!
+百事可樂	Pepsi
+的~	...ly~
+的東西\n交出來！！	your things\nhand them over!!
+省起來！	Save it!
+看得起你\n才跟你換！	I trade with you out of respect!
+看我的厲害！	Watch my power!
+真差！！	So bad!!
+真是不幸~	Such misfortune~
+真是吸血鬼~	Such a bloodsucker~
+真是無妄之災！	Such undeserved misfortune!
+真是萬幸！	What a relief!
+真有成就感！！	So fulfilling!!
+真淒慘~	So tragic~
+真衰~	So unlucky~
+眾人皆睡\n我獨醒~	While everyone sleeps, I alone am awake~
+睡吧！\nBABY！	Go to sleep, BABY!
+睡覺時間到了~	Bedtime~
+睡覺時間到了！	Bedtime!
+破厝換別莊！	Swap a shanty for a villa!
+示！	...show!
+社會新聞	Society News
+祝你像牠\n一樣長壽！	May you live as long as it does!
+神愛世人~	God loves all~
+神經！\n害不到我啦！	As if! You can't hurt me!
+禁止營業！	Closed for business!
+福星高照！	Lucky star shining!
+福特汽車	Ford Motor
+租  期	Lease Term
+稍等一下唷！	Just a moment!
+立刻坐牢三天	Jail for 3 days at once
+第一大飯店	No. 1 Grand Hotel
+等一等~	Wait a moment~
+糖  糖	Sugar
+約 翰 喬	John Joe
+累贅終於走了~	The burden is finally gone~
+細漢偷挽瓠，\n大漢偷牽牛！	Steals gourds as a child, steals oxen as an adult!
+終於可以\n鬆一口氣了~	Finally, I can breathe again~
+終於肯走了！	Finally leaving!
+終於認清\n你的真面目了！	Now I see your true colors!
+給你！！	Take it!!
+給國庫吧！	Pay into the treasury!
+給我停！	STOP!
+給我改建吧！	Renovate it for me!
+給我！	Gimme!
+給本公主過來！	Come here, at once!
+統一超商	7-Eleven (President Chain Store)
+維護市容整潔\n人人有責！	Keeping the city clean is everyone's duty!
+縫都不夠！	Not a bit left!
+總 市 價	Market Cap
+總算買到了！	Finally bought it!
+繳錢給國庫吧！	Pay into the treasury!
+翹頭囉！	Kicked the bucket!
+翼龍航空	Pterodactyl Airlines
+老厝邊免計較~	Old neighbors — no hard feelings~
+老娘\n不走回頭路！	I don't retrace my steps!
+老娘走不動了！	I can't walk another step!
+老本都快沒了~	My savings are almost gone~
+者就\n是您！	...next time!
+耍得你團團轉！	I've got you spinning!
+聖誕節\n\n%s得到%s！	Christmas:\n\n%s gets %s!
+聚寶銀樓	Treasure-Gathering Jewelry
+聯 合 報	United Daily News
+聯合次要敵人\n打擊主要敵人！	Unite with lesser enemies to defeat the main one!
+聯合航空	United Airlines
+聯想科技	Legend Technology
+股市	Stocks
+股 價 表	Price Table
+股票不通意！！	The stocks won't move!!
+肥龍保險	Fat Dragon Insurance
+脖子伸長點\n慢慢等吧！	Crane your neck and wait in vain!
+腳好酸喔~	My feet are sore~
+臨\n\n送您%s！	...arrive:\n\na gift of %s!
+臨\n大富翁銀行！	...the Richman Bank!
+臨\n道具店！	...the Item Shop!
+臺灣人壽	Taiwan Life
+與%s同盟中\n\n免收%s！	Allied with %s:\nno %s charged!
+花旗銀行	Citibank
+莎唷那拉，\n再見！	Sayonara, goodbye!
+華山派	Mt. Hua Sect
+萊 爾 富	Hilife
+萬丈高樓\n平地起!!	Even the tallest tower starts from the ground!!
+萬歲！	Hooray!
+萬歲！\n中大獎了！	Yay! Grand prize!
+萬能的天使！\n賜給我\n神奇的力量~	Almighty angel!\nGrant me miraculous power~
+號！	...number!
+蛋吧	have an egg
+蜀山派	Mt. Shu Sect
+蠅頭小利~	Peanuts~
+行星銀行	Planetary Bank
+衡山派	Mt. Heng Sect
+被我抓到了吧！	Gotcha!
+裕隆汽車	Yulon Motor
+裡？	...where?
+要命\n要老婆？	Money, your life, or your wife?
+視  窗	Windows
+討厭啦！	You're awful!
+誰來載我一程~	Someone give me a ride~
+誰偷了\n我的地契？	Who stole my land deed?
+誰要你的爛地！	Who wants your lousy land!
+誰要賣你！！	Who'd sell to you!!
+誰要跟你好？！	Who wants to be your friend?!
+請不要忘記喔！	Please don't forget!
+請你多多\n擔待吧！	Please forgive me!
+請到\n一個魔神仔~	Calling the little demon~
+請君保重，\n呵呵！	Take care of yourself, heh heh!
+請大家\n不要買啦~	Please, don't buy it~
+請您\n快快離開吧！！	Please leave right now!!
+請選擇嫁禍對象...	Choose someone to frame...
+諒你也不敢\n跟本公主收錢！	You wouldn't dare charge the princess!
+謝啦，謝啦！	Thanks! Thanks!
+謝謝~	Thank you~
+護市容整潔\n人人有責！	Keeping the city clean is everyone's duty!
+變賣所有卡片	Sell all cards
+變賣所有道具	Sell all items
+讓我\n再玩一次吧！	Let me play one more time!
+讓我來\n為民除害！！	I'll rid the people of this pest!!
+讓我再玩一次！	Let me play again!
+讓我出去！	Let me out!
+豐田汽車	Toyota Motor
+豪華大飯店	Luxury Grand Hotel
+財經新聞	Financial News
+買地！買地！	Buy land! Buy land!
+貸款中	Loan outstanding
+資金運用比例	Fund Allocation
+賣出的張數	Shares to sell
+賺的都不夠賠！	My earnings can't cover losses!
+購得此地！	bought this land!
+走了！大恩\n大德來日再報！	I must go! This debt will be repaid someday!
+走盈餘\n\n%d元！	profit toll\n\n$%d!
+走過路費\n\n%d元！	toll for passing\n\n$%d!
+走開！\n別煩我！	Go away! Don't bother me!
+起價卡好賺食！	A starting bid makes money!
+起厝\n就要起歸排！	Build houses a whole row at a time!
+起厝我專門科~	Building houses is my specialty~
+越頭卡快活！	Turning around is happier!
+跌個慘兮兮~	Falling, falling hard~
+跌到谷底~	Rock bottom~
+跌！跌！	Fall! Fall!
+距貸款到期日\n\n還剩１天！	1 day until the\n\nloan comes due!
+距貸款到期日\n\n還剩２天！	2 days until the\n\nloan comes due!
+距還款日%d天	%d days until repayment
+跟我一國\n好處多多喔！	Join my side — lots of perks!
+跟我合作\n準沒錯！	Partner with me and you can't lose!
+跟我逗陣\n有好嘸壞~	Hang with me — only upsides~
+路況報導	Traffic Report
+身\n\n付給每個人...	possessed:\n\ngive everyone...
+身\n\n向所有對手收...	possessed:\n\ncollect from all rivals...
+身\n\n得到%s及%s！	possessed:\n\nGot %s and %s!
+身\n\n得到%s！	possessed:\n\nGot %s!
+身\n\n損失...	possessed:\n\nLost...
+身\n\n送您...	possessed:\n\na gift...
+身\n\n遺失%s！	possessed:\n\nLost %s!
+身\n\n遺失一半卡片！	possessed:\n\nLost half your cards!
+身在誰身上？	Who should it possess?
+身的人	possessed
+轉去呷自己啦！	Go home and eat your own food!
+轉向，轉向！	Turn! Turn!
+迅猛汽車	Raptor Motors
+迪士尼	Disneyland
+逍遙客棧	Carefree Inn
+逗陣就是有緣~	It's fate that brought us together~
+這個地段\n也該漲價了吧？	Isn't it time this area's prices went up?
+這塊地\n換主人~	this land\na new owner~
+這是\n你們的榮幸！	It's an honor for you!
+這是你自找的！	You asked for this!
+這棟房子\n不錯喔~	Nice house~
+這樣\n比較有賺頭~	This makes more money~
+這樣才賺錢！	That's how you make money!
+這裡\n收費太低了！	The tolls here are too low!
+這裡\n本公主徵收了！	This land is hereby annexed by the princess!
+這裡\n風水不壞喔~	Not bad feng shui here~
+這還有王法嗎？	Is there no law anymore?
+這點錢\n都要賒賬~	On credit for such a small amount~
+通訊	Telecom
+速則不達！	Haste makes waste!
+進嘸步退嘸路~	Can't advance, can't retreat~
+遊戲畫面	Game Screen
+運氣好而已啦~	Just good luck~
+過馬路\n要小心喔！	Careful crossing the street!
+道具欄已滿\n\n無法購買！	Item slots full\n\ncan't buy!
+遠東紡織	Far Eastern Textile
+還不放我出去！	Let me out of here!
+還好沒事~	Good thing nothing happened~
+還我錢來~	Pay me back~
+還給人家啦~	Give it back~
+那是非賣品！！	Not for sale!!
+郈#0096約翰喬	#0096 John Joe
+部夷為\n平地！！	raze it all\nto the ground!!
+都給我拆了！	Tear it ALL down!
+重建！\n我要重建！	Rebuild! I want to rebuild!
+金 貝 貝	Kimi
+金作廢！	...prize void!
+金加倍！	...prize doubled!
+金將累積\n到下個月．\n．．．。	...rolls over\nto next month...
+金星科技	Venus Technology
+金金大飯店	Gold-Gold Grand Hotel
+金！	...prize!
+銀河保險	Galaxy Insurance
+銀河系和平日\n\n%s得到%s！	Galaxy Peace Day:\n\n%s gets %s!
+銀河航運	Galaxy Shipping
+銀行拒絕往來\n\n還剩%d天！	Bank blacklisted:\n\n%d days left!
+銀行暫停放款\n\n還剩%d天！	Lending suspended:\n\n%d days left!
+銀行經營權易主！	Control of the bank changes hands!
+銀行資金準備\n\n不足%d元\n\n由經營者%s墊付！	Bank reserve short $%d\n\nManager %s covers it!
+鋒！	...vanguard!
+錢都被你\n拿光了！	You took ALL my money!
+長城電機	Great Wall Electric
+長毛象紡織	Woolly Mammoth Textile
+長江建設	Yangtze Construction
+門！	...gate!
+開發道具	Development Items
+間移動！！	...teleport!!
+關人家什麼事！	What's it to you!
+阮的現金目前\n攏寄在股市~	All my cash is in the stock market~
+阿門！	Amen!
+除夕\n\n%s得到%s！	New Year's Eve:\n\n%s gets %s!
+陰陽魔界~	The Twilight Zone~
+隕石礦業	Meteorite Mining
+雷龍電子	Thunder Dragon Electronics
+震 旦 行	Aurora Trading
+面上漲	...prices rise!
+面免費！	...free!
+面對現實吧~	Face reality~
+頂新食品	Tingyi Foods
+飛來橫禍！	A bolt from the blue!
+飛狗跳~~	pandemonium~~
+飛龍百貨	Flying Dragon Department Store
+麥來這套！！	Don't pull that on me!!
+麥牽拖厝邊啦！	Don't drag neighbors into it!
+麥當勞	McDonald's
+黃金銀行	Golden Bank
+鼾鼾~	Zzz~
+！\n休息幾天吧！	!\nRest up for a few days!
+！\n損人不利己~	!\nHurting others, gaining nothing~
+！\n還是從前好。	!\nThe good old days were better!
+！回頭太難~	! Too hard to turn back~
+！害人反害己	! The schemer hoists himself
+！真倒霉	What bad luck
+，\n功成名就啦！	,\nsuccess and fame!
+，\n我還滿行的嘛！	,\nI've still got it!
+，好期待！	, so exciting!
+，有土斯有財\n\n我就是土地公公。\n\n有我在，你想要多少土地就有多少。	With land comes wealth —\n\nI am the Earth God.\n\nWith me around, take all the land you want!
+０級	Level 0
+%s\n\n賣出%s%d張	%s\n\nSold %s, %d shares
+%s\n\n是否使用免費卡？	%s\n\nUse the Free Pass Card?
+%s開發完成！	%s development complete!
+託管AI	Auto AI
+住宿中	Lodging
+貸款到期日\n\n強制執行！	Loan due —\n\nenforced repayment!
+利息：	Interest:
+各位客戶辛苦了！\n又到了每月銀行\n結算的日子。	Attention, customers!\nIt's time for the monthly bank settlement.
+有什麼我能\n為你服務的嗎？	Is there anything I can do for you?
+所有人繳交地價稅５％	Everyone pays 5% land tax
+所有人繳交證交稅５％	Everyone pays 5% stock tax
+%s房屋鬧鬼\n地價下跌３０％	A house in %s is haunted.\nLand value drops 30%
+股市低迷不振重挫崩盤	The stock market crashes!
+一處民宅瓦斯爆炸\n房屋失火	A gas explosion sets a house on fire
+公開拍賣%s\n公有土地一處	Public auction: public land in %s
+恭喜沙隆巴斯購得此地！	Congrats to Salonpas on this land!
+恭喜約翰喬購得此地！	Congrats to John Joe on this land!
+$%d	$%d
+close mid wait	close mid wait
