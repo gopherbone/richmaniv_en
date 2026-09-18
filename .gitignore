@@ -1,0 +1,14 @@
+# Game data - don't commit copyrighted game assets
+Richman4.ISO
+extracted/
+decrypted/
+*.mkf
+*.exe
+*.avi
+.DS_Store
+
+# Temp files
+*.pyc
+__pycache__/
+*.log
+tools/mkfx
