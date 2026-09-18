@@ -53,3 +53,15 @@ keystream. Findings (see `tools/README.md` for the base key and per-column table
   - `rich4_decrypt.py` — CD-encryption decryptor (keystream-table approach).
   - `mkf_decompress.c` — the game's proprietary chunk decompressor (from mytbk/rich4, GPL-3.0).
 - Game assets are **not** committed (see `.gitignore`); place them locally beside these tools.
+
+## Repacker (built)
+
+`tools/repack_rich4.py` produces `decrypted/rich4_en.exe` (642,560 B, valid PE with a new
+`ESTR` section at VA 0x4a6000). Verified: all 1,354 script records re-decode from the patched
+exe byte-identical to the CSV `english` column. 63 UI strings rewritten in place; 197 grown
+strings relocated into ESTR with pointer rebasing; 2,035 pool pointers rebased; old record
+bytes zeroed (non-record data such as float constants preserved untouched).
+
+Remaining caveat: runtime verification under Wine (not yet installed) — the repack assumes the
+game looks up script text by `#NNNN` needle/pointer rather than by fixed offsets, supported by
+the fact that the original pool itself is unsorted (e.g. #0010 precedes #0009).
